@@ -197,7 +197,7 @@ Position:relative;
 .big-sale {
 	Margin-left: 50px;
 	height: 315px;
-	position: relative;
+	position: absolute;
 	z-index: 10;
 }
 .I08-slider { 
