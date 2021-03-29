@@ -189,13 +189,13 @@ h2{
 display:block;
 align-items: center;
 margin-left: 150pxpx;
-Position:relative;
+Position:fixed;
 	
 }
 
 .big-sale {
 	Margin-left: 50px;
-	height: 315px;
+	height: 200px;
 	position: absolute;
 	z-index: 10;
 }
@@ -207,13 +207,13 @@ Position:relative;
 	margin-top:20px;
 	margin-left: 100px;
 	width: 1170px;
-	height: 275px;
+	height: 183px;
 }
 
 
 .isi-slider img { 
 	width: 1170px;
-	height: 275px; 
+	height: 183px; 
 	float: left;
 }
 
