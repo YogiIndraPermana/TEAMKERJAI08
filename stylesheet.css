@@ -58,7 +58,7 @@ li {
 width:1333px;
 height:400px;
 display:block;
-padding-top:100px;
+padding-top:300px;
 }
 
 .populer img{
@@ -189,6 +189,7 @@ h2{
 display:block;
 align-items: center;
 margin-left: 150pxpx;
+	margin-top:100px;
 Position:fixed;
 	
 }
