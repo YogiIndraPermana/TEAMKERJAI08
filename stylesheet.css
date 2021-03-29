@@ -219,7 +219,7 @@ Position:relative;
 }
 
 .isi-slider { 
-	position: absolute; 
+	position: relative; 
 	width:3900px;  
 
 	/*pengaturan durasi lama tampil gambar */
